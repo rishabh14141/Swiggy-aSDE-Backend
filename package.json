@@ -1,0 +1,11 @@
+{
+  "name": "swiggy-asde-backend",
+  "version": "1.0.0",
+  "description": "Life itself is a virtual game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rishabh",
+  "license": "ISC"
+}
